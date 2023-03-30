@@ -17,6 +17,6 @@
 	"dependencies": {
 		"gamepad-wrapper": "^1.2.0",
 		"logxr": "file:..",
-		"three": "^0.149.0"
+		"three": "^0.142.0"
 	}
 }
